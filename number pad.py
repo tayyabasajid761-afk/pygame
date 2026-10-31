@@ -21,4 +21,4 @@ for i in range(4):
   label = Label(master=frame, text=nums[i][j], bg='#de*fff')
   label.pack(padx=3, pady=3)
  # Start the GUI event loop
- root.mainloop()         
+root.mainloop()         
